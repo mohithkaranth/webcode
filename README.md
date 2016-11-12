@@ -1,2 +1,2 @@
 # webcode
-practice web pages
+practice web pages data science class
